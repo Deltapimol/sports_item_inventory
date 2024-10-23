@@ -1,0 +1,8 @@
+requests
+Django==5.1.2
+djangorestframework
+django-cors-headers
+python-dotenv
+psycopg2-binary
+celery
+redis
